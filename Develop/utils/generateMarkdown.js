@@ -1,16 +1,6 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
-  if (license === "MIT"){
-    return`![MIT](https://img.shields.io/badge/License-MIT-red)`
-  }else if(license === "Apache"){
-    return`![Apache](https://img.shields.io/badge/License-Apache-red)`
-  } else if(license === "GNU"){
-    return`![GNU](https://img.shields.io/badge/License-GNU-red)`
-  }else {
-    return``
-  }
-}
+
 
 
 // TODO: Create a function that returns the license link
@@ -61,7 +51,7 @@ function generateMarkdown(data) {
   ${data.contrabution}
 
   ## GitHub
-  @[${data.github}](https://github.com/${data.github})
+  [${data.github}](https://github.com/${data.github})
 
   ## Email
   ${data.email}

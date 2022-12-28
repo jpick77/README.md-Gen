@@ -1,4 +1,4 @@
-#  ![MIT](https://img.shields.io/badge/License-MIT-red)
+# readme.md-gen ![MIT](https://img.shields.io/badge/License-MIT-red)
 
   - [description](#description)
 
@@ -36,7 +36,7 @@
   
 
   ## GitHub
-  [jpick77](https://github.com/jpick77)
+  @[@jpick77](https://github.com/@jpick77)
 
   ## Email
-  
+  jpickron30@gmail.com
