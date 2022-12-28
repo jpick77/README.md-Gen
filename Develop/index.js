@@ -59,7 +59,15 @@ function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
-
+    inquirer.prompt (questions).then(res =>{
+        const markdown = generateMarkdown(res)
+        fs.writeFile("./utils/readme.md", markdown, (error, data)=> {
+            if (error) {
+                console.log(error)
+            }
+            console.log("readme has been generated")
+        })
+    })
 }
 
 // Function call to initialize app
