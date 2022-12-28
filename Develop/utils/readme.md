@@ -1,4 +1,4 @@
-# README.md-Generator ![MIT](https://img.shields.io/badge/License-MIT-red)
+# README.md-en ![MIT](https://img.shields.io/badge/License-MIT-red)
 
 
   ## Description
@@ -22,8 +22,8 @@
   To generate your README, you must git clone the repo to your desktop so you have the application available to you. Then run npm install in your terminal so you have the required packages to run the app. The application will then run on the command of node index.js in the command line. You will then be prompted to answer several questions regarding the README you would like to generate. The README will generate in the Develop folder of your Visual Studio Code. 
 
   ## Usage
-  https://drive.google.com/file/d/1AhKVrMAr0IyY9xBB3mUeLAAIXEcRf57P/view
   
+
   ## License
   MIT
 
@@ -34,6 +34,6 @@
   Users can contribute through my GitHub!
 
   ## Questions
-  [jpick77](https://github.com/jpick77)
+  [jpickk777](https://github.com/jpickk777)
 
   jpickron30@gmail.com
